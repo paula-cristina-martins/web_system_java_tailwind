@@ -1,0 +1,42 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.language": "en,pt,pt_BR",
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "html"
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#42198d",
+    "activityBar.activeBorder": "#fcfbfb",
+    "activityBar.background": "#42198d",
+    "activityBar.foreground": "#fcfbfb",
+    "activityBar.inactiveForeground": "#fcfbfb",
+    "activityBarBadge.background": "#fcfbfb",
+    "activityBarBadge.foreground": "#141414",
+    "statusBar.background": "#141414",
+    "statusBar.foreground": "#fcfbfb",
+    "statusBarItem.hoverBackground": "#8d99a6",
+    "titleBar.activeBackground": "#141414",
+    "titleBar.activeForeground": "#fcfbfb",
+    "titleBar.inactiveBackground": "#8d99a6",
+    "titleBar.inactiveForeground": "#8d99a6"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "files.associations": {
+    ".czrc": "json",
+    ".huskyrc": "json",
+    ".stylelintrc": "json",
+    ".env": "properties",
+    ".importsortrc": "json"
+  },
+  "cSpell.words": []
+}
